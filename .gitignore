@@ -106,7 +106,7 @@ dist
 ##################################################
 
 # Prettier config file
-.prettierrc*
+#.prettierrc*
 
 # Homework support folder
 .req
